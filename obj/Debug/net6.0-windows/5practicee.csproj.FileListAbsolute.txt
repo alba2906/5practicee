@@ -1,0 +1,17 @@
+C:\Users\user2\Desktop\5практика\bin\Debug\net6.0-windows\5practicee.exe
+C:\Users\user2\Desktop\5практика\bin\Debug\net6.0-windows\5practicee.deps.json
+C:\Users\user2\Desktop\5практика\bin\Debug\net6.0-windows\5practicee.runtimeconfig.json
+C:\Users\user2\Desktop\5практика\bin\Debug\net6.0-windows\5practicee.dll
+C:\Users\user2\Desktop\5практика\bin\Debug\net6.0-windows\5practicee.pdb
+C:\Users\user2\Desktop\5практика\obj\Debug\net6.0-windows\5practicee.csproj.AssemblyReference.cache
+C:\Users\user2\Desktop\5практика\obj\Debug\net6.0-windows\_5practicee.Form1.resources
+C:\Users\user2\Desktop\5практика\obj\Debug\net6.0-windows\5practicee.csproj.GenerateResource.cache
+C:\Users\user2\Desktop\5практика\obj\Debug\net6.0-windows\5practicee.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user2\Desktop\5практика\obj\Debug\net6.0-windows\5practicee.AssemblyInfoInputs.cache
+C:\Users\user2\Desktop\5практика\obj\Debug\net6.0-windows\5practicee.AssemblyInfo.cs
+C:\Users\user2\Desktop\5практика\obj\Debug\net6.0-windows\5practicee.csproj.CoreCompileInputs.cache
+C:\Users\user2\Desktop\5практика\obj\Debug\net6.0-windows\5practicee.dll
+C:\Users\user2\Desktop\5практика\obj\Debug\net6.0-windows\refint\5practicee.dll
+C:\Users\user2\Desktop\5практика\obj\Debug\net6.0-windows\5practicee.pdb
+C:\Users\user2\Desktop\5практика\obj\Debug\net6.0-windows\5practicee.genruntimeconfig.cache
+C:\Users\user2\Desktop\5практика\obj\Debug\net6.0-windows\ref\5practicee.dll
